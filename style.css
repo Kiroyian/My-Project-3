@@ -10,7 +10,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #6a49e4;
+    background-color: white;
   }
   #calculator {
     width: 300px;
@@ -33,7 +33,7 @@ body {
     border: none;
     border-radius: 5px;
     background-color: #333;
-    color: white;
+    color: rgb(228, 235, 235);
     cursor: pointer;
   }
   #calculator button:active {
